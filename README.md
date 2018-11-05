@@ -3,6 +3,8 @@
 ## ⚠️ Notice ⚠️
 Warning, I am not responsible for the misuse of this API or for any forms of punishment for using bots on the WhatsApp platform. This project aims to study JavaScript injections.
 
+In the future this API can receive a FrontEnd structure to be able to perform phonebook submissions among other tasks
+
 ## How to Use
 To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
