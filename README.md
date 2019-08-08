@@ -1,4 +1,4 @@
-# Span WhatsApp Bot 📱 💬
+# Spam WhatsApp Bot 📱 💬
 
 ## ⚠️ Notice ⚠️
 Warning, I am not responsible for the misuse of this API or for any forms of punishment for using bots on the WhatsApp platform. This project aims to study JavaScript injections.
