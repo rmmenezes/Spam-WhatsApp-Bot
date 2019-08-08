@@ -16,7 +16,7 @@ const createWindow = () =>{
   });
 
   win.loadFile('index.html')
-  
+
   ex.get('/whatsapp/:numero/:mensagem', function(req,res){
     var numero = req.params.numero;
     var msg = req.params.mensagem;
